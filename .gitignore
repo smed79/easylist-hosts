@@ -1,0 +1,10 @@
+# Tracked files
+
+!hosts
+!whitelist
+!README.md
+!LICENSE
+
+# Untrack other files and folders
+
+*
