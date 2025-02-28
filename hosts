@@ -1,8 +1,8 @@
 ################################################################################
 # Title       : EasyList HOSTS
 # Description : Unified EasyList hosts file for use with DNS and domain blocking tools
-# Version     : 20250226063501
-# Update      : 2025-02-26 06:35:01 UTC
+# Version     : 20250228033729
+# Update      : 2025-02-28 03:37:29 UTC
 # Homepage    : https://github.com/smed79/easylist-hosts
 # Raw         : https://raw.githubusercontent.com/smed79/easylist-hosts/main/hosts
 # Credits     : https://github.com/easylist
@@ -3463,6 +3463,7 @@
 0.0.0.0 admarketplace.com
 0.0.0.0 admarketplace.net
 0.0.0.0 admark.fr
+0.0.0.0 admaster.click
 0.0.0.0 admaster.com.cn
 0.0.0.0 admasters.media
 0.0.0.0 admathhd.com
@@ -3795,7 +3796,6 @@
 0.0.0.0 adsrealpublic.ru
 0.0.0.0 adsrevenue.com
 0.0.0.0 adsrv.me
-0.0.0.0 adsrvr.org
 0.0.0.0 adsrvs.com
 0.0.0.0 ad-srv-track.com
 0.0.0.0 ads.sohu.com
@@ -4536,10 +4536,12 @@
 0.0.0.0 akifedalus.com
 0.0.0.0 ak-is.net
 0.0.0.0 akiwi.ru
+0.0.0.0 akjoyjkjbajkv.top
 0.0.0.0 akjoyjkjbaqam.top
 0.0.0.0 akjoyjkrwalaa.top
 0.0.0.0 akjoyjkrwaoam.top
 0.0.0.0 akkieh.yumeyakata.com
+0.0.0.0 aklmjylamvera.top
 0.0.0.0 aklmjylwvklyw.top
 0.0.0.0 aklmjylwvkqbm.top
 0.0.0.0 aknzmq.divvino.com.br
@@ -4896,6 +4898,7 @@
 0.0.0.0 amongqueue.com
 0.0.0.0 amongremember.com
 0.0.0.0 amorallibrarysmother.com
+0.0.0.0 amorismpenaea.shop
 0.0.0.0 amorphouscomprise.com
 0.0.0.0 amouronllne.com
 0.0.0.0 amperse.info
@@ -4935,6 +4938,7 @@
 0.0.0.0 a.munters.us
 0.0.0.0 amunx.de
 0.0.0.0 amuseer.com
+0.0.0.0 amusesjambone.shop
 0.0.0.0 amuseulteriorpair.com
 0.0.0.0 amusevar.com
 0.0.0.0 amusinghump.com
@@ -7409,6 +7413,7 @@
 0.0.0.0 avvelwamqkaev.top
 0.0.0.0 avvzamazdpa.com
 0.0.0.0 avwjyvzeyeov.top
+0.0.0.0 avwjyvzeykor.top
 0.0.0.0 avxonsp.icu
 0.0.0.0 avzwkkmzkawyr.top
 0.0.0.0 awaitingdate.com
@@ -8545,6 +8550,7 @@
 0.0.0.0 bfzikn.l-wine.ru
 0.0.0.0 bg1kfdzzsq.ru
 0.0.0.0 bgaeedihjgbachfecj.ru
+0.0.0.0 bgajeddhdcjhbijhgaj.world
 0.0.0.0 bgaycm.exvital-shop.de
 0.0.0.0 bgbg00.fun
 0.0.0.0 bgclck.me
@@ -8602,6 +8608,7 @@
 0.0.0.0 bibinha.com
 0.0.0.0 bibulustartane.guru
 0.0.0.0 bi.concordesolutions.com
+0.0.0.0 bicp-analytics.postscript.io
 0.0.0.0 bict.pro
 0.0.0.0 bidajet.info
 0.0.0.0 bidder.mediams.mb.softbank.jp
@@ -8704,6 +8711,7 @@
 0.0.0.0 bint.openapp.link
 0.0.0.0 binweevilsdoshcodes.com
 0.0.0.0 bioanalyticalmarketing.eurofins-info.com
+0.0.0.0 bioatpej.xyz
 0.0.0.0 biocdn.net
 0.0.0.0 bio.chups.co
 0.0.0.0 biokrfvnvs.com
@@ -8778,6 +8786,7 @@
 0.0.0.0 bjfsk.xyz
 0.0.0.0 bjimtyv.top
 0.0.0.0 bjiuck.com
+0.0.0.0 bjmkptrpcrgtjdo.xyz
 0.0.0.0 bjoxsc.com
 0.0.0.0 bjpsuk.fray-id.com
 0.0.0.0 bjpwv.com
@@ -8882,6 +8891,7 @@
 0.0.0.0 blisterlngdates.net
 0.0.0.0 blitz-analytics-batch-server.blitz.gg
 0.0.0.0 blitzcsgo.com
+0.0.0.0 blkmyco.com
 0.0.0.0 bllsteringdates.net
 0.0.0.0 blmjbp.casamundo.pl
 0.0.0.0 blockadz.com
@@ -8979,6 +8989,7 @@
 0.0.0.0 b.madplace99.com
 0.0.0.0 bmail.getventive.com
 0.0.0.0 b.mail.tabcorp.com.au
+0.0.0.0 bmasamd.top
 0.0.0.0 bmbvrjymnjlrz.top
 0.0.0.0 bmcm.pw
 0.0.0.0 bmcnf.pro
@@ -9258,6 +9269,7 @@
 0.0.0.0 bpkbqp.com
 0.0.0.0 bpkk.ru
 0.0.0.0 bpm.global360.com
+0.0.0.0 bpmlhyvnxjbm.com
 0.0.0.0 bpmonline.com
 0.0.0.0 bppbnn.vacanceole.com
 0.0.0.0 b.prod1.youroffers.dominos.ca
@@ -13499,6 +13511,7 @@
 0.0.0.0 ctr-opc.nmg.de
 0.0.0.0 ctr.po-kaki-to.com
 0.0.0.0 cts.businesswire.com
+0.0.0.0 ctsncobxuteqvcs.com
 0.0.0.0 cts.vresp.com
 0.0.0.0 ct.taskhuman.com
 0.0.0.0 cttest.branch.rocks
@@ -14900,6 +14913,7 @@
 0.0.0.0 derploime.com
 0.0.0.0 dertendium.com
 0.0.0.0 dert.pro
+0.0.0.0 derwbl.icu
 0.0.0.0 descargacristiana.com
 0.0.0.0 descargar1.es
 0.0.0.0 descargar.billeteramango.com
@@ -15080,10 +15094,12 @@
 0.0.0.0 dhnnbfok.icu
 0.0.0.0 dhobeynandi.com
 0.0.0.0 dhoj0vaxks.rest
+0.0.0.0 dhonphehr.com
 0.0.0.0 dhoqlmlvdr.xyz
 0.0.0.0 dhplma.pontofrio.com.br
 0.0.0.0 dhsjpz.bugaboo.com
 0.0.0.0 dhukul.com
+0.0.0.0 dhulzehgk.com
 0.0.0.0 dhuquxqy.com
 0.0.0.0 dhwmtx.stylewe.com
 0.0.0.0 dhygr.com
@@ -15135,6 +15151,7 @@
 0.0.0.0 dian500.com
 0.0.0.0 dianassb.com
 0.0.0.0 dianxin.com
+0.0.0.0 diav.cn
 0.0.0.0 diazoestmark.guru
 0.0.0.0 diboji.class101.net
 0.0.0.0 dicebot-game.com
@@ -15706,6 +15723,7 @@
 0.0.0.0 dn4qoz.com
 0.0.0.0 d.nativendo.de
 0.0.0.0 dna.uol.com.br
+0.0.0.0 dnbaulelcdpmcs.com
 0.0.0.0 dnckawxatc.com
 0.0.0.0 dncxgm.pegadorfashion.com
 0.0.0.0 dnd2.icu
@@ -16255,6 +16273,7 @@
 0.0.0.0 ducofagrigusor.com
 0.0.0.0 ducroconawchan.com
 0.0.0.0 dudemobile.net
+0.0.0.0 dudhbgmv.com
 0.0.0.0 dudintrec.ru
 0.0.0.0 d-ughwashes.ru
 0.0.0.0 dugtor-deer.pw
@@ -19127,6 +19146,7 @@
 0.0.0.0 fbu8.montecarloluxuryhotels.com
 0.0.0.0 fbu8.montecarlosbm.com
 0.0.0.0 fbu8.montecarloseasonalsale.com
+0.0.0.0 fbvbrb.icu
 0.0.0.0 fbvkcdn.club
 0.0.0.0 fbwand.com
 0.0.0.0 fbxploitz.com
@@ -24807,6 +24827,7 @@
 0.0.0.0 id5.ru
 0.0.0.0 id9uep.ru
 0.0.0.0 idamcso.top
+0.0.0.0 id.a-mx.com
 0.0.0.0 idaplay.com
 0.0.0.0 idaschop.ru
 0.0.0.0 idbhsgy.com
@@ -26959,6 +26980,7 @@
 0.0.0.0 ipv6monitoring.eu
 0.0.0.0 ipyhf.icu
 0.0.0.0 ipzlsr.com
+0.0.0.0 iqbhhitp.xyz
 0.0.0.0 iqbinaryoptions.com
 0.0.0.0 iqbjqv.airarabia.com
 0.0.0.0 iqcontentplatform.de
@@ -27586,6 +27608,7 @@
 0.0.0.0 jlffeu.nadula.com
 0.0.0.0 jlfiber.advancedtech.com
 0.0.0.0 jlhwxm.spartoo.es
+0.0.0.0 jljhiampirfh.com
 0.0.0.0 jljnh.top
 0.0.0.0 jlloshis.pro
 0.0.0.0 jln3.cl-brands.com
@@ -27607,6 +27630,7 @@
 0.0.0.0 jme9ustnnel.info
 0.0.0.0 jmesxbe.icu
 0.0.0.0 jmf-news1.club
+0.0.0.0 jmhepnannwwv.xyz
 0.0.0.0 jmipzsn.icu
 0.0.0.0 jmk1uttboek0.pro
 0.0.0.0 jmk1uz3dodz.online
@@ -28370,6 +28394,7 @@
 0.0.0.0 kiolpia.icu
 0.0.0.0 kipfilms.ru
 0.0.0.0 kipyn.com
+0.0.0.0 kiqqxuwxgboqm.icu
 0.0.0.0 kiqwal.autoscout24.es
 0.0.0.0 kiqwil.l-m.co.jp
 0.0.0.0 kires.umk-spo.biz
@@ -29288,6 +29313,7 @@
 0.0.0.0 lhp-mortgage.loanzify.com
 0.0.0.0 lhrzel.enterprise.com.tr
 0.0.0.0 lhtzfn.xyz
+0.0.0.0 lhufelctnwksc.xyz
 0.0.0.0 lhvmt5et8vq0.ru
 0.0.0.0 lhxolz.icu
 0.0.0.0 lhzmkyl.biz
@@ -36278,6 +36304,7 @@
 0.0.0.0 nativevideo.ru
 0.0.0.0 natoms.com
 0.0.0.0 natpal.com
+0.0.0.0 natpygnk.com
 0.0.0.0 naucaish.net
 0.0.0.0 naufauzo.net
 0.0.0.0 naughtybureau.com
@@ -36788,6 +36815,7 @@
 0.0.0.0 nidays.switzerland.ni.com
 0.0.0.0 nideqoa.ru
 0.0.0.0 nidjxulb.ru
+0.0.0.0 nievolmqn.com
 0.0.0.0 nifracomtra.com
 0.0.0.0 niftyhospital.com
 0.0.0.0 niftyjelly.com
@@ -36851,6 +36879,7 @@
 0.0.0.0 nkqxyn.misterspex.co.uk
 0.0.0.0 nkstkp.com
 0.0.0.0 nktydx.icu
+0.0.0.0 nkxjhiwimrl.com
 0.0.0.0 nl.aon.com
 0.0.0.0 nlbukc.babyworld.se
 0.0.0.0 n.lexusfinancial.com
@@ -37078,6 +37107,7 @@
 0.0.0.0 npbtnl.xyz
 0.0.0.0 npczil.maxandco.com
 0.0.0.0 npdbxf.xyz
+0.0.0.0 npepyyis.xyz
 0.0.0.0 npfopn.mix.tokyo
 0.0.0.0 npjvgug.xyz
 0.0.0.0 nplden.legionathletics.com
@@ -37390,6 +37420,7 @@
 0.0.0.0 obsespa.ru
 0.0.0.0 obseu.netgreencolumn.com
 0.0.0.0 obsudam.ru
+0.0.0.0 obsxfvqvoux.com
 0.0.0.0 obtenircodesdeplaystationnetwork.fr
 0.0.0.0 obtfhl.bellemaison.jp
 0.0.0.0 obturex.com
@@ -37832,6 +37863,7 @@
 0.0.0.0 omn.wholesalehalloweencostumes.com
 0.0.0.0 omoby.net
 0.0.0.0 omomovie.com
+0.0.0.0 omostwdosx.xyz
 0.0.0.0 ompatratom.com
 0.0.0.0 ompx.shopbop.com
 0.0.0.0 ompxs.shopbop.com
@@ -38391,6 +38423,7 @@
 0.0.0.0 otrnww.pipingrock.com
 0.0.0.0 otsarec.com
 0.0.0.0 ottawa-content.cresa.com
+0.0.0.0 otttqmhdutxgxuy.com
 0.0.0.0 oturvy.sanitairwinkel.nl
 0.0.0.0 otuumq.manyavar.com
 0.0.0.0 otuweb.ru
@@ -39038,6 +39071,7 @@
 0.0.0.0 pdsgaj.piquadro.com
 0.0.0.0 pduwvp.chanti.dk
 0.0.0.0 pdweoyw.cn
+0.0.0.0 pdyroxdtly.com
 0.0.0.0 pdzutf.sftworks.jp
 0.0.0.0 pe5avnvi81ed.ru
 0.0.0.0 peakcounter.dk
@@ -39160,6 +39194,7 @@
 0.0.0.0 pg-ad-b1.nosdn.127.net
 0.0.0.0 pgcciax.icu
 0.0.0.0 pgflow.com
+0.0.0.0 pghglj.icu
 0.0.0.0 pghub.io
 0.0.0.0 pgkxhq.jamesallen.com
 0.0.0.0 pgold.info
@@ -41207,6 +41242,7 @@
 0.0.0.0 qedgcxi.cn
 0.0.0.0 qedlai.restplatzboerse.com
 0.0.0.0 qeedaa.xyz
+0.0.0.0 qeedgyoligl.xyz
 0.0.0.0 qeeocy.xyz
 0.0.0.0 qejrwy.lazienkaplus.pl
 0.0.0.0 qekgcdcjr000.fun
@@ -41848,6 +41884,7 @@
 0.0.0.0 rde.ru
 0.0.0.0 r-dev.urbansitter.net
 0.0.0.0 rdfine.camelbrown.com
+0.0.0.0 rdllzz.icu
 0.0.0.0 rdlrbm.studying.jp
 0.0.0.0 rdlrxfnlprsyhg.xyz
 0.0.0.0 rdsddand.com
@@ -42651,6 +42688,7 @@
 0.0.0.0 rivgo.info
 0.0.0.0 rivrai.com
 0.0.0.0 riwnmh.novasol.co.uk
+0.0.0.0 riym.cn
 0.0.0.0 rizfilm.com
 0.0.0.0 rizzonelli.it
 0.0.0.0 rj7xw.ru
@@ -42773,6 +42811,7 @@
 0.0.0.0 roi-rocket.net
 0.0.0.0 roispy.com
 0.0.0.0 roistv.net
+0.0.0.0 rojj.cn
 0.0.0.0 roklerok.com
 0.0.0.0 rokno.com
 0.0.0.0 roksit.net
@@ -42913,6 +42952,7 @@
 0.0.0.0 rpgenerator.net
 0.0.0.0 r.phhhoto.com
 0.0.0.0 rpiher.web-camp.io
+0.0.0.0 rpksoyeygr.xyz
 0.0.0.0 rpnvib.estilos.com.pe
 0.0.0.0 r.powuta.com
 0.0.0.0 rpozzl.happy-size.de
@@ -43544,6 +43584,7 @@
 0.0.0.0 sagetrc.com
 0.0.0.0 sagxlv.daniellashevel.com
 0.0.0.0 sa.hgtv.com
+0.0.0.0 sahkumthmk.com
 0.0.0.0 sahqoo.com
 0.0.0.0 sail-horizon.com
 0.0.0.0 sailor.rutracker21.org
@@ -45319,6 +45360,7 @@
 0.0.0.0 sharpdownloads.com
 0.0.0.0 sharp.ondu.ru
 0.0.0.0 shassheld.live
+0.0.0.0 shatielsu.com
 0.0.0.0 shauhaik.xyz
 0.0.0.0 shazzefiass.com
 0.0.0.0 shbxugs.cn
@@ -45603,6 +45645,7 @@
 0.0.0.0 s.insideottawavalley.com
 0.0.0.0 sionotti.ru
 0.0.0.0 sipulo.katies.com.au
+0.0.0.0 sirdarschawers.shop
 0.0.0.0 sirdata.eu
 0.0.0.0 sirdata.io
 0.0.0.0 siresuperm.bid
@@ -45907,6 +45950,7 @@
 0.0.0.0 slot-portal.com
 0.0.0.0 slova-accordy.ru
 0.0.0.0 slowpoker.ru
+0.0.0.0 slpfgvuovgj.com
 0.0.0.0 slryca.meyou.jp
 0.0.0.0 sl.trycircle.com
 0.0.0.0 sltvtk.com
@@ -48935,6 +48979,7 @@
 0.0.0.0 snowsignal.com
 0.0.0.0 snplow.net
 0.0.0.0 snptrk.com
+0.0.0.0 snqxcfxrnah.com
 0.0.0.0 snr4.canalplus.com
 0.0.0.0 snrcdn.net
 0.0.0.0 sns2.secureforms.mcafee.com
@@ -52012,6 +52057,7 @@
 0.0.0.0 svibeacon.onezapp.com
 0.0.0.0 s.vibe.co
 0.0.0.0 svitnews.com
+0.0.0.0 svjj.cn
 0.0.0.0 svk100hp.ru
 0.0.0.0 svk-native.ru
 0.0.0.0 svmarketing.destinationtoronto.com
@@ -56936,6 +56982,7 @@
 0.0.0.0 trofiso.ru
 0.0.0.0 trofvid.com
 0.0.0.0 trofvido.com
+0.0.0.0 trohycv.top
 0.0.0.0 tr.ojxm.espmp-aufr.net
 0.0.0.0 t.rolltide.com
 0.0.0.0 tromen.ru
