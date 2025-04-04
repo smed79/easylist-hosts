@@ -1,8 +1,8 @@
 ################################################################################
 # Title       : EasyList HOSTS
 # Description : Unified EasyList hosts file for use with DNS and domain blocking tools
-# Version     : 20250402120434
-# Update      : 2025-04-02 12:04:34 UTC
+# Version     : 20250404105754
+# Update      : 2025-04-04 10:57:54 UTC
 # Homepage    : https://github.com/smed79/easylist-hosts
 # Raw         : https://raw.githubusercontent.com/smed79/easylist-hosts/main/hosts
 # Credits     : https://github.com/easylist
@@ -3648,6 +3648,7 @@
 0.0.0.0 adp13a.com
 0.0.0.0 adp4wb.ru
 0.0.0.0 adpai.thepaper.cn
+0.0.0.0 ad.parkvv.com
 0.0.0.0 adpaths.com
 0.0.0.0 ad-pay.de
 0.0.0.0 adp.cnki.net
@@ -10594,6 +10595,7 @@
 0.0.0.0 cdn9now.com
 0.0.0.0 cdn.adtive.com
 0.0.0.0 cdn.arcstudiopro.com
+0.0.0.0 cdn.biff.travel
 0.0.0.0 cdn-bk.ligastavok.ru
 0.0.0.0 cdn.bootcss.com
 0.0.0.0 cdncache1-a.akamaihd.net
@@ -15165,6 +15167,7 @@
 0.0.0.0 dheirzeh.com
 0.0.0.0 dhemixu.com
 0.0.0.0 dhgate.com
+0.0.0.0 dhievvienr.com
 0.0.0.0 dhkyrl.discountmags.com
 0.0.0.0 dhl.135320.com
 0.0.0.0 dhlsupplychain.dhl.com
@@ -16223,6 +16226,7 @@
 0.0.0.0 dreamsdome.com
 0.0.0.0 dreamstore.ch
 0.0.0.0 dreimer.ru
+0.0.0.0 dreiquksz.com
 0.0.0.0 drenqils.com
 0.0.0.0 dreti.ru
 0.0.0.0 dreuaxk.icu
@@ -23887,6 +23891,7 @@
 0.0.0.0 hauhws.asgoodasnew.de
 0.0.0.0 hauixd.halistores.com
 0.0.0.0 hauqks.top
+0.0.0.0 hauqoa.com
 0.0.0.0 hauqou.top
 0.0.0.0 haurouja.net
 0.0.0.0 hausasisters.com
@@ -24195,6 +24200,8 @@
 0.0.0.0 hgtem.com
 0.0.0.0 hgvkw.us
 0.0.0.0 hgzqxe.hanesbrandsinc.jp
+0.0.0.0 hh04040aoik.com
+0.0.0.0 hh04041aoik.com
 0.0.0.0 hhausq.top
 0.0.0.0 hhbxcs.tylko.com
 0.0.0.0 hhnhxu.com
@@ -25195,6 +25202,7 @@
 0.0.0.0 ikuailian.com
 0.0.0.0 ikvjvw.pharma.mynavi.jp
 0.0.0.0 ikzoncud.com
+0.0.0.0 ilcq.cn
 0.0.0.0 ildws.com
 0.0.0.0 ileads.ru
 0.0.0.0 ilepwo.bonprix.at
@@ -25250,6 +25258,7 @@
 0.0.0.0 image.ard.de
 0.0.0.0 imagecapture.info
 0.0.0.0 image.deginvest.de
+0.0.0.0 image-eu-na-ctnytbefjq.4shares.live
 0.0.0.0 image.info.perkinelmer.com
 0.0.0.0 image.kfw.de
 0.0.0.0 image.kfw-entwicklungsbank.de
@@ -37943,6 +37952,7 @@
 0.0.0.0 okfiles.net
 0.0.0.0 okfuidnfss.mobi
 0.0.0.0 okhwxl.rnainc.jp
+0.0.0.0 okikwul.icu
 0.0.0.0 okiol.pro
 0.0.0.0 okiterk.top
 0.0.0.0 okjsdkj.ru
@@ -38387,6 +38397,7 @@
 0.0.0.0 ooftilra.net
 0.0.0.0 oogzc.top
 0.0.0.0 oohirdoadi.com
+0.0.0.0 ookaso.com
 0.0.0.0 oolsashasicho.net
 0.0.0.0 ooobss.info
 0.0.0.0 oo.ooshop.com
@@ -39561,6 +39572,7 @@
 0.0.0.0 photoshop-master.org
 0.0.0.0 photos-ic.com
 0.0.0.0 phoumsoomsoh.com
+0.0.0.0 phozeksr.com
 0.0.0.0 phpad.cqnews.net
 0.0.0.0 phpmyadmin.toolmonger.net.jumia.co.tz
 0.0.0.0 phpstat.cntcm.com.cn
@@ -40196,6 +40208,7 @@
 0.0.0.0 pm.kontakt-vermittler.de
 0.0.0.0 pmndbsjd.site
 0.0.0.0 pmnpknpjbpqjjc.xyz
+0.0.0.0 pmnyzf.icu
 0.0.0.0 pm.onlineseitensprung.de
 0.0.0.0 pm.pmu.fr
 0.0.0.0 pm.sexkiste.com
@@ -40516,6 +40529,7 @@
 0.0.0.0 pqiicj.misterspex.se
 0.0.0.0 pqlcpm.kindoh.co.kr
 0.0.0.0 pqn7.cheque-dejeuner.fr
+0.0.0.0 pqnonh.top
 0.0.0.0 pqrede.fiatprofessional.com
 0.0.0.0 pqrtd9hhtu9x.info
 0.0.0.0 pqvsm.com
@@ -42985,6 +42999,7 @@
 0.0.0.0 ringier.hu
 0.0.0.0 ringsrecord.com
 0.0.0.0 ring.staticmoly.me
+0.0.0.0 rinl.cn
 0.0.0.0 rinlohedtron.ru
 0.0.0.0 r.interakt.ru
 0.0.0.0 r.intimately.us
@@ -43300,6 +43315,7 @@
 0.0.0.0 rps-p2.rockpapershotgun.com
 0.0.0.0 rp-srw.net
 0.0.0.0 rps-uk.rockpapershotgun.com
+0.0.0.0 rptdhu.top
 0.0.0.0 r-publick.info
 0.0.0.0 rq6acf4x.ru
 0.0.0.0 rqbdyk.evo.com
@@ -49353,6 +49369,7 @@
 0.0.0.0 snzfj.net
 0.0.0.0 so03311koaq.com
 0.0.0.0 so04010koaq.com
+0.0.0.0 so04030koaq.com
 0.0.0.0 soahu1wnmt6l.www.replai.io
 0.0.0.0 soapfighters.com
 0.0.0.0 soathoth.com
@@ -49679,6 +49696,7 @@
 0.0.0.0 sonic-skins.com
 0.0.0.0 sonic-skins.net
 0.0.0.0 sonicthehedgehog.pw
+0.0.0.0 sonkransme.com
 0.0.0.0 sonnents.com
 0.0.0.0 sonraifishnet.website
 0.0.0.0 sontere.com
@@ -52690,6 +52708,7 @@
 0.0.0.0 sxp.allianz.de
 0.0.0.0 sxwxswg8z1xe.www.arnowebtv.com
 0.0.0.0 sy57d8wi.com
+0.0.0.0 sy.ameba.jp
 0.0.0.0 sy.amebame.com
 0.0.0.0 sy.ameblo.jp
 0.0.0.0 sydneygfpink.com
@@ -58857,6 +58876,7 @@
 0.0.0.0 uu22332.com
 0.0.0.0 uu22662.com
 0.0.0.0 uua5jr2z1vq0.ru
+0.0.0.0 uuaisp.com
 0.0.0.0 uuajq.top
 0.0.0.0 uuaoy.com
 0.0.0.0 uuberbonus.com
@@ -63461,6 +63481,7 @@
 0.0.0.0 zwaar.org
 0.0.0.0 zwatgf.megaknihy.cz
 0.0.0.0 zwdtvx.xyz
+0.0.0.0 zwgqzgo.icu
 0.0.0.0 zwinqi.spartoo.pt
 0.0.0.0 zwiucp.ohmynews.com
 0.0.0.0 zwlxnj.xyz
