@@ -1,8 +1,8 @@
 ################################################################################
 # Title       : EasyList HOSTS
 # Description : Unified EasyList hosts file for use with DNS and domain blocking tools
-# Version     : 20250522110341
-# Update      : 2025-05-22 11:03:41 UTC
+# Version     : 20250525124937
+# Update      : 2025-05-25 12:49:37 UTC
 # Homepage    : https://github.com/smed79/easylist-hosts
 # Raw         : https://raw.githubusercontent.com/smed79/easylist-hosts/main/hosts
 # Credits     : https://github.com/easylist
@@ -483,6 +483,7 @@
 0.0.0.0 2lb.cc
 0.0.0.0 2lycosu.com
 0.0.0.0 2lycosy.com
+0.0.0.0 2lzg9mqzw.com
 0.0.0.0 2mydns.net
 0.0.0.0 2o7.net
 0.0.0.0 2parale.ro
@@ -601,6 +602,7 @@
 0.0.0.0 3er88wn.com
 0.0.0.0 3esm.consubebe.es
 0.0.0.0 3ez1ja1uq3.ru
+0.0.0.0 3ff6kjylmjs.top
 0.0.0.0 3gl.net
 0.0.0.0 3grg8dqjil.ru
 0.0.0.0 3h1fpq39jb.ru
@@ -946,6 +948,7 @@
 0.0.0.0 79zxcv.com
 0.0.0.0 7ad.media
 0.0.0.0 7aey.icu
+0.0.0.0 7awf4fi9k7.com
 0.0.0.0 7caidai.xyz
 0.0.0.0 7car.com.cn
 0.0.0.0 7cbwus.cn
@@ -1154,6 +1157,7 @@
 0.0.0.0 9miwo.com
 0.0.0.0 9nl.eu
 0.0.0.0 9odes.ltd
+0.0.0.0 9oru1vh0w.com
 0.0.0.0 9solo.biz
 0.0.0.0 9uim1pc4ej4n.ru.themoneytizer.com
 0.0.0.0 9vds.ru
@@ -3523,6 +3527,7 @@
 0.0.0.0 adf.dahe.cn
 0.0.0.0 adfever.com
 0.0.0.0 adfill.me
+0.0.0.0 adfjxsrw.cc
 0.0.0.0 adflax.ru
 0.0.0.0 adfoc.us
 0.0.0.0 adfox.ru
@@ -4706,6 +4711,7 @@
 0.0.0.0 ai.thermo.com
 0.0.0.0 ai.thermofisher.com
 0.0.0.0 a.itim.es
+0.0.0.0 aitongji.vip
 0.0.0.0 aitpqm.com
 0.0.0.0 aitraykui.xyz
 0.0.0.0 aitskhedahs.top
@@ -8429,6 +8435,7 @@
 0.0.0.0 bbges.xyz
 0.0.0.0 bbhktv.xyz
 0.0.0.0 b.big7.com
+0.0.0.0 bbjzly.top
 0.0.0.0 bbk.pnc.com
 0.0.0.0 b.bloomberglp.com
 0.0.0.0 bbmonandroid.com
@@ -8767,6 +8774,7 @@
 0.0.0.0 benefitanna.com
 0.0.0.0 benefits.aon.com
 0.0.0.0 benelux2.secureforms.mcafee.com
+0.0.0.0 bennismottle.com
 0.0.0.0 benpsbp.com
 0.0.0.0 bentdownload.com
 0.0.0.0 bento.agoda.com
@@ -8999,6 +9007,7 @@
 0.0.0.0 bgdmmb.com
 0.0.0.0 b.getmaintainx.com
 0.0.0.0 bgevqy.moschino.com
+0.0.0.0 bgf05251lko.com
 0.0.0.0 bgfmvc.amandalindroth.com
 0.0.0.0 bggbbgbbg.ru
 0.0.0.0 bggcdn.ru
@@ -9009,6 +9018,7 @@
 0.0.0.0 bgkecb.com
 0.0.0.0 bgpng.me
 0.0.0.0 b-gtc.getui.net
+0.0.0.0 bgtfr-test.mno.link
 0.0.0.0 bgupcq.westfalia.de
 0.0.0.0 bgxmq.com
 0.0.0.0 bgynsr.com
@@ -9987,6 +9997,7 @@
 0.0.0.0 brespark.eccocar.com
 0.0.0.0 brevissnod.com
 0.0.0.0 brevnet.eccocar.com
+0.0.0.0 brevo.com
 0.0.0.0 brewe.sh
 0.0.0.0 brfeneval.eccocar.com
 0.0.0.0 brfgbn.xyz
@@ -10308,6 +10319,7 @@
 0.0.0.0 burgerscapra.shop
 0.0.0.0 burialgrief.com
 0.0.0.0 burkhahemoid.com
+0.0.0.0 burlilynemos.com
 0.0.0.0 burly-assumption.com
 0.0.0.0 burlyblogs.com
 0.0.0.0 burlywhistle.com
@@ -10321,6 +10333,7 @@
 0.0.0.0 bursttraffic.net
 0.0.0.0 burt.io
 0.0.0.0 busbarsselter.shop
+0.0.0.0 bushescarnic.top
 0.0.0.0 bushitmas.live
 0.0.0.0 businesq.men
 0.0.0.0 business.92wy.com
@@ -10355,6 +10368,7 @@
 0.0.0.0 butcalve.com
 0.0.0.0 buthawk.com
 0.0.0.0 buthoacm.net
+0.0.0.0 butinehamal.com
 0.0.0.0 butjohnce.com
 0.0.0.0 butlercdn.com
 0.0.0.0 butomuskainah.com
@@ -11029,6 +11043,7 @@
 0.0.0.0 cclpub.com
 0.0.0.0 ccm19boros.de
 0.0.0.0 ccm19.de
+0.0.0.0 ccm19.mindpark.at
 0.0.0.0 ccm1.dlr.de
 0.0.0.0 ccmd.coveredca.com
 0.0.0.0 ccmp.eu
@@ -11070,6 +11085,7 @@
 0.0.0.0 cdinmaf.top
 0.0.0.0 cdipsumf.top
 0.0.0.0 cdjhcf.hometogo.es
+0.0.0.0 cdjst7i1v.com
 0.0.0.0 cdl2.booksy.com
 0.0.0.0 cdl.booksy.com
 0.0.0.0 cdlekgr.icu
@@ -12968,6 +12984,7 @@
 0.0.0.0 consent.dk
 0.0.0.0 consentement.ouest-france.fr
 0.0.0.0 consentframework.com
+0.0.0.0 consent.gardena.net
 0.0.0.0 consentik.com
 0.0.0.0 consent.lifetouch.com
 0.0.0.0 consentmanager.net
@@ -13212,6 +13229,7 @@
 0.0.0.0 cookiereports.com
 0.0.0.0 cookierulez.sqrt64.it
 0.0.0.0 cookies-adobe.kbc.be
+0.0.0.0 cookies.ae-webdesign.com
 0.0.0.0 cookiescriptcdn.pro
 0.0.0.0 cookiescript.cloud.provincia.tn.it
 0.0.0.0 cookiescript.info
@@ -13514,6 +13532,7 @@
 0.0.0.0 cpdsrv.de
 0.0.0.0 cp.eoncreativity.com
 0.0.0.0 cpexcdn.cz
+0.0.0.0 cpg-cdn.com
 0.0.0.0 cpgo.avatacar.com
 0.0.0.0 cpihrinfo.cpihr.com
 0.0.0.0 cp.ir-central.irco.com
@@ -14734,6 +14753,7 @@
 0.0.0.0 dallworldnews2.store
 0.0.0.0 dalmfn.xyz
 0.0.0.0 dalmspb.top
+0.0.0.0 dalofq.top
 0.0.0.0 dalyai.com
 0.0.0.0 damageddistance.com
 0.0.0.0 da.maif.fr
@@ -15202,6 +15222,7 @@
 0.0.0.0 data.reachplc.com
 0.0.0.0 data.reactandshare.com
 0.0.0.0 data.replo.app
+0.0.0.0 datareporter.eu
 0.0.0.0 data.resources.ringcentral.com
 0.0.0.0 data.rewards.riteaid.com
 0.0.0.0 data.ricaud.com
@@ -17182,6 +17203,7 @@
 0.0.0.0 dtnmyp.cocotorico.com
 0.0.0.0 dtntnl.icu
 0.0.0.0 d.toutiao.com
+0.0.0.0 dtpen.mno.link
 0.0.0.0 dtqcpx.eskor.se
 0.0.0.0 dtrcw.cc
 0.0.0.0 dtr-onsite-feed.datarize.ai
@@ -19563,6 +19585,7 @@
 0.0.0.0 evilsbedont.de
 0.0.0.0 evilweb.eu
 0.0.0.0 e.viously.com
+0.0.0.0 evkc.cn
 0.0.0.0 evkjai.grandado.com
 0.0.0.0 evkzqs.xyz
 0.0.0.0 evlsn.com
@@ -19913,6 +19936,7 @@
 0.0.0.0 f9f62da9a0.com
 0.0.0.0 f.a23.in
 0.0.0.0 fa242957c982754.com
+0.0.0.0 fa5.dn4.it
 0.0.0.0 faamhel.com
 0.0.0.0 faaqgje.icu
 0.0.0.0 faboshine.com
@@ -20023,6 +20047,7 @@
 0.0.0.0 fajkhr.icu
 0.0.0.0 faker322.pro
 0.0.0.0 faker322.ru
+0.0.0.0 fakexa-post.mno.link
 0.0.0.0 fakjkwp.cn
 0.0.0.0 faksofta.net
 0.0.0.0 faktino.ru
@@ -20433,6 +20458,7 @@
 0.0.0.0 fgesshf.pro
 0.0.0.0 fgetmzx.icu
 0.0.0.0 fgfecw.rebelle.com
+0.0.0.0 fgfhgvtj.com
 0.0.0.0 fgfukd.sakazen.co.jp
 0.0.0.0 fgjfwz.legami.com
 0.0.0.0 fgjlgea.info
@@ -21784,6 +21810,7 @@
 0.0.0.0 fremaks.net
 0.0.0.0 frenchcrunch.com
 0.0.0.0 frequentflesh.com
+0.0.0.0 freshatl.azurewebsites.net
 0.0.0.0 freshcounter.com
 0.0.0.0 freshcracks.com
 0.0.0.0 freshgamehacks.com
@@ -21994,6 +22021,7 @@
 0.0.0.0 funtest-ru.com
 0.0.0.0 funtrop.com
 0.0.0.0 fuooms.aetrex.com
+0.0.0.0 fup5qxstgi.com
 0.0.0.0 furiousfiles.com
 0.0.0.0 furivaemorian.top
 0.0.0.0 furlhp.kango.mynavi.jp
@@ -22492,6 +22520,7 @@
 0.0.0.0 gauqoith.com
 0.0.0.0 gauvouni.com
 0.0.0.0 gaveasword.com
+0.0.0.0 gavm.cn
 0.0.0.0 gawayez.e-postserv.com
 0.0.0.0 ga.webdigi.co.uk
 0.0.0.0 gawnaze.com
@@ -23138,6 +23167,7 @@
 0.0.0.0 giantengineteam.com
 0.0.0.0 gianthypes.com
 0.0.0.0 giantsvessel.com
+0.0.0.0 gibbetfloyt.shop
 0.0.0.0 gibbetsvower.shop
 0.0.0.0 gibevay.ru
 0.0.0.0 gibsonswaniawski.bid
@@ -25028,6 +25058,7 @@
 0.0.0.0 haise10.top
 0.0.0.0 haiseehomouw.net
 0.0.0.0 haisteegee.com
+0.0.0.0 haitang77.com
 0.0.0.0 haiwanli.com
 0.0.0.0 hajilijnemo.com
 0.0.0.0 hakerr.pl
@@ -25496,6 +25527,7 @@
 0.0.0.0 hgfhjjhjfcieidicafa.ru
 0.0.0.0 hgfsdzfs.com
 0.0.0.0 hghjks2.com
+0.0.0.0 hghngh.com
 0.0.0.0 hgiaef.site
 0.0.0.0 hgiafe.site
 0.0.0.0 hgibhacchfaeabgde.ru
@@ -26282,6 +26314,7 @@
 0.0.0.0 hzoouw.s-re.jp
 0.0.0.0 hzrghx.xyz
 0.0.0.0 hz.shouyoutv.com
+0.0.0.0 hzstats.com
 0.0.0.0 hzucji.com
 0.0.0.0 hzuheh.palcloset.jp
 0.0.0.0 hzvcaadn.icu
@@ -26567,6 +26600,7 @@
 0.0.0.0 ig-free-follows.com
 0.0.0.0 iggamestop.com
 0.0.0.0 iggbky.xyz
+0.0.0.0 iggdf88.com
 0.0.0.0 ig.igmarkets.com
 0.0.0.0 igjytl.unice.com
 0.0.0.0 igkek7a2.ga
@@ -28908,8 +28942,6 @@
 0.0.0.0 iujeaa.menz-style.com
 0.0.0.0 iulftx.com
 0.0.0.0 iunlockiphone5hq.com
-0.0.0.0 iuou.myadobe.cn
-0.0.0.0 iuou.ysw365.com
 0.0.0.0 iupgxu.com
 0.0.0.0 iupload4you.com
 0.0.0.0 iuploadfile.com
@@ -31063,6 +31095,7 @@
 0.0.0.0 lcsopa.onamae.com
 0.0.0.0 lctfgw.evernew.ca
 0.0.0.0 l.cultgear.com
+0.0.0.0 lcvl.cn
 0.0.0.0 lcvwdn.icu
 0.0.0.0 lcwodl.bleulibellule.com
 0.0.0.0 lczk.cn
@@ -31291,6 +31324,7 @@
 0.0.0.0 lemonads.com
 0.0.0.0 lemoncash.net
 0.0.0.0 lemonpi.io
+0.0.0.0 lencansalpae.top
 0.0.0.0 lendc.xyz
 0.0.0.0 lend-rb.bid
 0.0.0.0 l.engage.canva.com
@@ -32674,6 +32708,7 @@
 0.0.0.0 loadloccat.win
 0.0.0.0 loadmovie.ru
 0.0.0.0 loadmult.ru
+0.0.0.0 load.nootiz.com
 0.0.0.0 loadouthacks.com
 0.0.0.0 loadpartners.com
 0.0.0.0 loadserial.ru
@@ -32750,6 +32785,7 @@
 0.0.0.0 logger.omio.com
 0.0.0.0 logger.rm.uol.com.br
 0.0.0.0 logger.snackly.co
+0.0.0.0 logger-test.mno.link
 0.0.0.0 logger.torimochi-ad.net
 0.0.0.0 logger.uol.com.br
 0.0.0.0 logger.yp.ca
@@ -33764,6 +33800,7 @@
 0.0.0.0 margueritenice.com
 0.0.0.0 marinsm.com
 0.0.0.0 ma.ri.se
+0.0.0.0 maristbister.top
 0.0.0.0 marjorienice.com
 0.0.0.0 markadver.com
 0.0.0.0 markedmeasure.com
@@ -37242,6 +37279,7 @@
 0.0.0.0 mgixgn.wittchen.com
 0.0.0.0 mg.mistrasgroup.com
 0.0.0.0 mgn.ebis.xn--olsz5f0ufw02b.net
+0.0.0.0 mgntat.mno.link
 0.0.0.0 m.go4.io
 0.0.0.0 mgogo.ru
 0.0.0.0 mgptul.finson.com
@@ -37643,6 +37681,7 @@
 0.0.0.0 mmi.bemobile.ua
 0.0.0.0 mm.jbzj.com
 0.0.0.0 mmkkhhnn.cn
+0.0.0.0 mmkkkkk.com
 0.0.0.0 mm.melia.com
 0.0.0.0 mm.morrellinc.com
 0.0.0.0 mm.nwell.net
@@ -44040,6 +44079,7 @@
 0.0.0.0 q777.sfchronicle.com
 0.0.0.0 q8bfdpoknn.ru
 0.0.0.0 q8q.icu
+0.0.0.0 qa6z7kz5r.com
 0.0.0.0 qaadv.com
 0.0.0.0 qaapp.forever21.com
 0.0.0.0 qa-branch-app.liketoknow.it
@@ -46746,6 +46786,7 @@
 0.0.0.0 sa.hgtv.com
 0.0.0.0 sahkumthmk.com
 0.0.0.0 sahqoo.com
+0.0.0.0 sai7348.xyz
 0.0.0.0 sail-horizon.com
 0.0.0.0 sailor.rutracker21.org
 0.0.0.0 sail-personalize.com
@@ -48078,6 +48119,7 @@
 0.0.0.0 sendblaze.com
 0.0.0.0 senddataserver.com
 0.0.0.0 sendelven.com
+0.0.0.0 sender.net
 0.0.0.0 sendexchange.com
 0.0.0.0 sendfileuk.com
 0.0.0.0 sendfileworld.com
@@ -54514,6 +54556,7 @@
 0.0.0.0 stats.sebastiangale.ca
 0.0.0.0 stats.sec.telefonica.com
 0.0.0.0 stats.selectam.io
+0.0.0.0 stats.sender.net
 0.0.0.0 stats.senty.com.au
 0.0.0.0 stats.servicedesignjobs.com
 0.0.0.0 stats.seva.rocks
@@ -54589,7 +54632,6 @@
 0.0.0.0 stats.studypages.com
 0.0.0.0 stats.stylight.it
 0.0.0.0 stats.sublimesecurity.com
-0.0.0.0 stats.suedtirolerjobs.it
 0.0.0.0 stats.suenicholls.com
 0.0.0.0 stats.sumikai.com
 0.0.0.0 stats.suniboy.com
@@ -56357,6 +56399,7 @@
 0.0.0.0 t.bucky.uwbadgers.com
 0.0.0.0 t.budweisergardens.com
 0.0.0.0 t.bukalapak.com
+0.0.0.0 tbunkrolo.com
 0.0.0.0 t.bushnell.org
 0.0.0.0 t.buyist.app
 0.0.0.0 tbvid.com
@@ -57152,6 +57195,7 @@
 0.0.0.0 thusmumid.live
 0.0.0.0 thustilpn.com
 0.0.0.0 thvx9i.icu
+0.0.0.0 thymeycimnel.com
 0.0.0.0 t.hypers.com.cn
 0.0.0.0 ti3av8k3ikwm.resume.gerardbosch.xyz
 0.0.0.0 ti4la.icu
@@ -57221,6 +57265,7 @@
 0.0.0.0 timing-js-menu.xyz
 0.0.0.0 timing.uhrforum.de
 0.0.0.0 timing.whenandhowagency.com
+0.0.0.0 timit.mno.link
 0.0.0.0 timonom.com
 0.0.0.0 tinb.net
 0.0.0.0 tinj.ru
@@ -59381,6 +59426,7 @@
 0.0.0.0 tr.boletim.companeo.pt
 0.0.0.0 tr.boletim.meu-orcamento.pt
 0.0.0.0 tr.bouyguestelecom.espmp-aufr.net
+0.0.0.0 tr.brand-fresh.it
 0.0.0.0 tr.brand.labelleadresse.com
 0.0.0.0 tr.bt.matrixspa.it
 0.0.0.0 tr.btob-afaceri.ro
@@ -61292,6 +61338,7 @@
 0.0.0.0 tyisloi.top
 0.0.0.0 tyjjavlp5w.ru
 0.0.0.0 tymh2022.xyz
+0.0.0.0 tympanojann.com
 0.0.0.0 typhondeck.com
 0.0.0.0 typicalairplane.com
 0.0.0.0 typicalteeth.com
@@ -61348,6 +61395,7 @@
 0.0.0.0 u1.idongde.com
 0.0.0.0 u1.qyxxpd.com
 0.0.0.0 u1tshop.ru
+0.0.0.0 u.20minutes.fr
 0.0.0.0 u.20mn.it
 0.0.0.0 u22011.com
 0.0.0.0 u22066.com
@@ -62208,8 +62256,11 @@
 0.0.0.0 utiq.3djuegospc.com
 0.0.0.0 utiq.abc.es
 0.0.0.0 utiq.actu.fr
+0.0.0.0 utiq.actu.net
 0.0.0.0 utiq.aisnenouvelle.fr
 0.0.0.0 utiq.allocine.fr
+0.0.0.0 utiq.annalect.es
+0.0.0.0 utiq.apotheken-umschau.de
 0.0.0.0 utiq.applesfera.com
 0.0.0.0 utiq.ariva.de
 0.0.0.0 utiq.arquitecturaydiseno.es
@@ -62220,13 +62271,14 @@
 0.0.0.0 utiq.autojournal.fr
 0.0.0.0 utiq.automobile-magazine.fr
 0.0.0.0 utiq.autoplus.fr
-0.0.0.0 utiq-aws.net
 0.0.0.0 utiq.az-online.de
 0.0.0.0 utiq.berlin-live.de
 0.0.0.0 utiq.bfmtv.com
 0.0.0.0 utiq.bibamagazine.fr
 0.0.0.0 utiq.bild.de
 0.0.0.0 utiq.bitban.com
+0.0.0.0 utiq.brand-demo.com
+0.0.0.0 utiq.brokser-heiratsmarkt.de
 0.0.0.0 utiq.buffed.de
 0.0.0.0 utiq.bunte.de
 0.0.0.0 utiq.burgosconecta.es
@@ -62234,28 +62286,32 @@
 0.0.0.0 utiq.buzzfeed.de
 0.0.0.0 utiq.bw24.de
 0.0.0.0 utiq.bz-berlin.de
+0.0.0.0 utiq.c7c12669-b77b-4cff-8b74-0aceec09c0c7.com
 0.0.0.0 utiq.caminteresse.fr
 0.0.0.0 utiq.canarias7.es
 0.0.0.0 utiq.capital.fr
 0.0.0.0 utiq.caradisiac.com
 0.0.0.0 utiq.centrepresseaveyron.fr
 0.0.0.0 utiq.cesoirtv.com
+0.0.0.0 utiq.charentelibre.fr
 0.0.0.0 utiq.chartsinfrance.net
 0.0.0.0 utiq.cheriefm.fr
 0.0.0.0 utiq.chip.de
 0.0.0.0 utiq.clara.es
 0.0.0.0 utiq.closermag.fr
 0.0.0.0 utiq.cnetfrance.fr
-0.0.0.0 utiq.cocinatis.com
+0.0.0.0 utiq.codebuild.ovh
 0.0.0.0 utiq.come-on.de
 0.0.0.0 utiq.compradiccion.com
 0.0.0.0 utiq.computerbild.de
 0.0.0.0 utiq.computerfrage.net
+0.0.0.0 utiq.comunidadmsm.es
 0.0.0.0 utiq.courrier-picard.fr
 0.0.0.0 utiq.cuerpomente.com
 0.0.0.0 utiq.cuisineactuelle.fr
 0.0.0.0 utiq.dacia.fr
 0.0.0.0 utiq.dasgelbeblatt.de
+0.0.0.0 utiq.derwesten.de
 0.0.0.0 utiq.desired.de
 0.0.0.0 utiq.diaridegirona.cat
 0.0.0.0 utiq.diariocordoba.com
@@ -62267,11 +62323,14 @@
 0.0.0.0 utiq.diariovasco.com
 0.0.0.0 utiq.directoalpaladar.com
 0.0.0.0 utiq.diverto.tv
+0.0.0.0 utiq.doctissimo.fr
 0.0.0.0 utiq.donaukurier.de
 0.0.0.0 utiq.duden.de
 0.0.0.0 utiq.easyvoyage.com
 0.0.0.0 utiq.eatbetter.de
+0.0.0.0 utiq.einbuergerungstest-online.eu
 0.0.0.0 utiq.einfachkochen.de
+0.0.0.0 utiq.einfachschoen.me
 0.0.0.0 utiq.einfach-tasty.de
 0.0.0.0 utiq.elcomercio.es
 0.0.0.0 utiq.elcorreo.com
@@ -62280,6 +62339,7 @@
 0.0.0.0 utiq.eldia.es
 0.0.0.0 utiq.eldiario.es
 0.0.0.0 utiq.eldiariomontanes.es
+0.0.0.0 utiq.elmueble.com
 0.0.0.0 utiq.elmundo.es
 0.0.0.0 utiq.elnacional.cat
 0.0.0.0 utiq.elnortedecastilla.es
@@ -62289,8 +62349,12 @@
 0.0.0.0 utiq.elperiodicoextremadura.com
 0.0.0.0 utiq.elperiodicomediterraneo.com
 0.0.0.0 utiq.emporda.info
+0.0.0.0 utiq.entrenous.fr
 0.0.0.0 utiq.epe.es
 0.0.0.0 utiq.espinof.com
+0.0.0.0 utiq.europapress.es
+0.0.0.0 utiq.europapress.tv
+0.0.0.0 utiq.eventfinder.at
 0.0.0.0 utiq.eventfinder.de
 0.0.0.0 utiq.expansion.com
 0.0.0.0 utiq.extratipp.com
@@ -62303,17 +62367,21 @@
 0.0.0.0 utiq.fitbook.de
 0.0.0.0 utiq.fnp.de
 0.0.0.0 utiq.focus.de
+0.0.0.0 utiq.football365.fr
+0.0.0.0 utiq.football.fr
 0.0.0.0 utiq.frandroid.com
 0.0.0.0 utiq.fr.de
 0.0.0.0 utiq.funandnews.de
 0.0.0.0 utiq.futurezone.de
 0.0.0.0 utiq.gala.fr
 0.0.0.0 utiq.genbeta.com
+0.0.0.0 utiq.genialetricks.de
 0.0.0.0 utiq.geo.fr
 0.0.0.0 utiq.gesundheitsfrage.net
 0.0.0.0 utiq.giessener-allgemeine.de
 0.0.0.0 utiq.giga.de
 0.0.0.0 utiq.grazia.fr
+0.0.0.0 utiq.groupmintelligence.com
 0.0.0.0 utiq.gutefrage.net
 0.0.0.0 utiq.hallo-eltern.de
 0.0.0.0 utiq.hallo-muenchen.de
@@ -62324,26 +62392,34 @@
 0.0.0.0 utiq.helpster.de
 0.0.0.0 utiq.hersfelder-zeitung.de
 0.0.0.0 utiq.hna.de
+0.0.0.0 utiq.hola.com
 0.0.0.0 utiq.hoy.es
 0.0.0.0 utiq.huelva24.com
 0.0.0.0 utiq.ideal.es
 0.0.0.0 utiq.informacion.es
+0.0.0.0 utiq.infosalus.com
 0.0.0.0 utiq.ingame.de
 0.0.0.0 utiq.ingolstadt-today.de
 0.0.0.0 utiq.inspirational.es
+0.0.0.0 utiq.instyle.es
+0.0.0.0 utiq.ippen.media
+0.0.0.0 utiq.jakala.es
 0.0.0.0 utiq.jamesonwhiskey.com
+0.0.0.0 utiq.jdelhommeau.fr
 0.0.0.0 utiq.jeuxvideo.com
 0.0.0.0 utiq.jux.news
 0.0.0.0 utiq.kino.de
 0.0.0.0 utiq.kreis-anzeiger.de
-0.0.0.0 utiq.kreisbote.de
 0.0.0.0 utiq.kreiszeitung.de
 0.0.0.0 utiq.kundendienst-info.de
+0.0.0.0 utiq.kurierverlag.de
 0.0.0.0 utiq.lacentrale.fr
 0.0.0.0 utiq.lachainemeteo.com
+0.0.0.0 utiq.lacronicabadajoz.com
 0.0.0.0 utiq.ladepeche.fr
 0.0.0.0 utiq.lagacetadesalamanca.es
 0.0.0.0 utiq.landtiere.de
+0.0.0.0 utiq.lanouvellerepublique.fr
 0.0.0.0 utiq.laopinioncoruna.es
 0.0.0.0 utiq.laopiniondemalaga.es
 0.0.0.0 utiq.laopiniondemurcia.es
@@ -62359,6 +62435,8 @@
 0.0.0.0 utiq.lavoixdunord.fr
 0.0.0.0 utiq.lavozdigital.es
 0.0.0.0 utiq.lebenindeutschland.eu
+0.0.0.0 utiq.leckerschmecker.me
+0.0.0.0 utiq.lecturas.com
 0.0.0.0 utiq.lefigaro.fr
 0.0.0.0 utiq.lejournaldelamaison.fr
 0.0.0.0 utiq.lemessager.fr
@@ -62370,7 +62448,9 @@
 0.0.0.0 utiq.lexpress.fr
 0.0.0.0 utiq.liberation-champagne.fr
 0.0.0.0 utiq.lidl.de
+0.0.0.0 utiq.lidl.pl
 0.0.0.0 utiq.lindependant.fr
+0.0.0.0 utiq.listisima.com
 0.0.0.0 utiq.lne.es
 0.0.0.0 utiq.lunion.fr
 0.0.0.0 utiq.madmoizelle.com
@@ -62378,19 +62458,29 @@
 0.0.0.0 utiq.mahou.es
 0.0.0.0 utiq.maison-travaux.fr
 0.0.0.0 utiq.mallorcazeitung.es
+0.0.0.0 utiq.manager-magazin.de
+0.0.0.0 utiq.manga-viewer.com
 0.0.0.0 utiq.mappy.com
+0.0.0.0 utiq.mappyrecette.com
 0.0.0.0 utiq.marca.com
 0.0.0.0 utiq.mariefrance.fr
 0.0.0.0 utiq.marmiton.org
 0.0.0.0 utiq.meine-anzeigenzeitung.de
 0.0.0.0 utiq.mejorconectados.com
+0.0.0.0 utiq.melty.fr
+0.0.0.0 utiq.merklespaintech.es
 0.0.0.0 utiq.merkur.de
+0.0.0.0 utiq.meteoconsult.es
 0.0.0.0 utiq.metodomontessori.com
 0.0.0.0 utiq.midilibre.fr
 0.0.0.0 utiq.millenium.gg
 0.0.0.0 utiq.millenium.org
 0.0.0.0 utiq.mittelbayerische.de
+0.0.0.0 utiq.mittelbayerische-stellen.de
+0.0.0.0 utiq.mno.link
+0.0.0.0 utiq.mobilite-verte.com
 0.0.0.0 utiq.modesettravaux.fr
+0.0.0.0 utiq.moin.de
 0.0.0.0 utiq.monacomatin.mc
 0.0.0.0 utiq.mopo.de
 0.0.0.0 utiq.motorradfrage.net
@@ -62400,7 +62490,11 @@
 0.0.0.0 utiq.myhomebook.de
 0.0.0.0 utiq.neonmag.fr
 0.0.0.0 utiq.news38.de
+0.0.0.0 utiq.news.bayern
+0.0.0.0 utiq.nextplz.fr
 0.0.0.0 utiq.nicematin.com
+0.0.0.0 utiq.nicematin.net
+0.0.0.0 utiq.noovomoi.ca
 0.0.0.0 utiq.nordlittoral.fr
 0.0.0.0 utiq.nostalgie.fr
 0.0.0.0 utiq.nrj.fr
@@ -62408,7 +62502,9 @@
 0.0.0.0 utiq.nrpyrenees.fr
 0.0.0.0 utiq.numerama.com
 0.0.0.0 utiq.oberhessische-zeitung.de
+0.0.0.0 utiq.oktoberfest.bayern
 0.0.0.0 utiq.op-online.de
+0.0.0.0 utiq.orange.es
 0.0.0.0 utiq.ouest-france.fr
 0.0.0.0 utiq.ozap.com
 0.0.0.0 utiq.palladiumhotelgroup.com
@@ -62424,8 +62520,10 @@
 0.0.0.0 utiq.poprosa.com
 0.0.0.0 utiq.programme.tv
 0.0.0.0 utiq.programme-tv.net
+0.0.0.0 utiq.promiflash.de
 0.0.0.0 utiq.psychologies.com
 0.0.0.0 utiq.ptitchef.com
+0.0.0.0 utiq.publisher-demo.media
 0.0.0.0 utiq.purebreak.com
 0.0.0.0 utiq.regio7.cat
 0.0.0.0 utiq.reisefrage.net
@@ -62434,10 +62532,12 @@
 0.0.0.0 utiq.rireetchansons.fr
 0.0.0.0 utiq.rmcbfmplay.com
 0.0.0.0 utiq.rugbyrama.fr
+0.0.0.0 utiq.sabervivirtv.com
 0.0.0.0 utiq.salamancahoy.es
 0.0.0.0 utiq.sauerlandkurier.de
 0.0.0.0 utiq.schlager.de
 0.0.0.0 utiq.science-et-vie.com
+0.0.0.0 utiq.semana.es
 0.0.0.0 utiq.sensacine.com
 0.0.0.0 utiq.serienjunkies.de
 0.0.0.0 utiq.sevilla.abc.es
@@ -62445,11 +62545,15 @@
 0.0.0.0 utiq.speakup.es
 0.0.0.0 utiq.speisekarte.de
 0.0.0.0 utiq.spektrum.de
+0.0.0.0 utiq.spiegel.de
 0.0.0.0 utiq.spielaffe.de
 0.0.0.0 utiq.sport.es
 0.0.0.0 utiq.sportlerfrage.net
 0.0.0.0 utiq.sports.fr
+0.0.0.0 utiq.staging--hb.hmg.systems
 0.0.0.0 utiq.staging--wiwo.hmg.systems
+0.0.0.0 utiq.stg.noovomoi.bellmedia.ca
+0.0.0.0 utiq.stilo.es
 0.0.0.0 utiq.stimme.de
 0.0.0.0 utiq.stylebook.de
 0.0.0.0 utiq.sudouest.fr
@@ -62460,12 +62564,16 @@
 0.0.0.0 utiq.techbook.de
 0.0.0.0 utiq.telefonica.com
 0.0.0.0 utiq.telekom.de
+0.0.0.0 utiq.telestar.fr
+0.0.0.0 utiq.telva.com
 0.0.0.0 utiq.terrafemina.com
 0.0.0.0 utiq.testfaz.net
 0.0.0.0 utiq-test.utest1.work
 0.0.0.0 utiq-test.utest3.work
+0.0.0.0 utiq.thestar.com
 0.0.0.0 utiq.thueringen24.de
 0.0.0.0 utiq.tierfans.net
+0.0.0.0 utiq.tim.it
 0.0.0.0 utiq.todoalicante.es
 0.0.0.0 utiq.topsante.com
 0.0.0.0 utiq.traum-deutung.de
@@ -62475,6 +62583,7 @@
 0.0.0.0 utiq.tz.de
 0.0.0.0 utiq.usinger-anzeiger.de
 0.0.0.0 utiq.utest1-prod.work
+0.0.0.0 utiq.utest2-prod.work
 0.0.0.0 utiq.utest2.work
 0.0.0.0 utiq.utest3-prod.work
 0.0.0.0 utiq.utest3.work
@@ -62484,15 +62593,21 @@
 0.0.0.0 utiq.vidaextra.com
 0.0.0.0 utiq.vitonica.com
 0.0.0.0 utiq.voici.fr
+0.0.0.0 utiq.volksfest-freising.de
 0.0.0.0 utiq.wa.de
+0.0.0.0 utiq.webedia.io
+0.0.0.0 utiq.webnachrichten.de
 0.0.0.0 utiq.welt-ctv.com
 0.0.0.0 utiq.welt.de
 0.0.0.0 utiq.werra-rundschau.de
 0.0.0.0 utiq.wetterauer-zeitung.de
+0.0.0.0 utiq.wieistmeineip.de
+0.0.0.0 utiq.wiesn.bayern
 0.0.0.0 utiq.wiwo.de
 0.0.0.0 utiq.wlz-online.de
 0.0.0.0 utiq.wmn.de
 0.0.0.0 utiq.wochenblatt.de
+0.0.0.0 utiq.xatakaciencia.com
 0.0.0.0 utiq.xataka.com
 0.0.0.0 utiq.xatakafoto.com
 0.0.0.0 utiq.xatakahome.com
@@ -62589,6 +62704,7 @@
 0.0.0.0 uwuyn.us
 0.0.0.0 uwwaml.com
 0.0.0.0 uwxdru.hellovillam.com
+0.0.0.0 uwxez.com
 0.0.0.0 uwy4.aegon.es
 0.0.0.0 uxbd4id.xyz
 0.0.0.0 uxcnhsf.cn
@@ -62619,6 +62735,7 @@
 0.0.0.0 uzerly.net
 0.0.0.0 uzevnf.realtystore.com
 0.0.0.0 uzhobt.wholesalemarine.com
+0.0.0.0 uziisk.icu
 0.0.0.0 uzipbs.weltbild.ch
 0.0.0.0 uziskins.com
 0.0.0.0 uzmdfi.com
@@ -62872,6 +62989,7 @@
 0.0.0.0 vfes.mno.link
 0.0.0.0 vfesmsp.mno.link
 0.0.0.0 vfghe.com
+0.0.0.0 vfit.mno.link
 0.0.0.0 vfjsa6do.icu
 0.0.0.0 vfmahn.slevomat.cz
 0.0.0.0 vfo4.carrefour-banque.fr
@@ -62882,6 +63000,7 @@
 0.0.0.0 vfsvv1.com
 0.0.0.0 vftrfmia.icu
 0.0.0.0 vftvbx.xyz
+0.0.0.0 vfuk.mno.link
 0.0.0.0 vfunls.com
 0.0.0.0 vfvcxv.naturhaeuschen.de
 0.0.0.0 vfvdvd99.fun
@@ -63966,7 +64085,6 @@
 0.0.0.0 web.b2bpleasefashion.com
 0.0.0.0 web.bankofscotland.de
 0.0.0.0 web-boosting.net
-0.0.0.0 webcache.datareporter.eu
 0.0.0.0 webcamdate.fr
 0.0.0.0 webcamhackpro.com
 0.0.0.0 web.campaign.cfs.com.au
@@ -64155,6 +64273,7 @@
 0.0.0.0 weborama.com
 0.0.0.0 weborama.design
 0.0.0.0 weborama.fr
+0.0.0.0 weborama-tech.ru
 0.0.0.0 web.orionpharma.com
 0.0.0.0 webpageviews.click
 0.0.0.0 webpixel.smartmeapp.com
@@ -64546,6 +64665,7 @@
 0.0.0.0 widgetbe.com
 0.0.0.0 widget.beop.io
 0.0.0.0 widgetbooster.com
+0.0.0.0 widget.brand-fresh.it
 0.0.0.0 widget.breakingburner.com
 0.0.0.0 widget.clipix.com
 0.0.0.0 widget.clutch.co
@@ -65145,6 +65265,7 @@
 0.0.0.0 wwilmie.top
 0.0.0.0 wwkh9ku.xyz
 0.0.0.0 wwm24.de
+0.0.0.0 wwmnga.icu
 0.0.0.0 wwnscv.myspringfield.com
 0.0.0.0 wwok04281kl.com
 0.0.0.0 wwok04291kl.com
@@ -66606,6 +66727,7 @@
 0.0.0.0 y0tf2wp.online
 0.0.0.0 y0utube.com.mx
 0.0.0.0 y1.arte.tv
+0.0.0.0 y1n1n3e0v.com
 0.0.0.0 y1.spreton.com
 0.0.0.0 y3br2xj9q6.ru
 0.0.0.0 y4l.icu
@@ -66923,6 +67045,7 @@
 0.0.0.0 yoast-schema-graph.com
 0.0.0.0 yobee.it
 0.0.0.0 yoda.kwd.inkuai.com
+0.0.0.0 yodalytics.com
 0.0.0.0 yofprpv.cn
 0.0.0.0 yofsaaa.pro
 0.0.0.0 yoga-terapia.ru
@@ -67128,6 +67251,7 @@
 0.0.0.0 ytouvy.arezzo.com.br
 0.0.0.0 ytqeavc.icu
 0.0.0.0 ytqlyw.xyz
+0.0.0.0 ytqvuq.icu
 0.0.0.0 y-track.com
 0.0.0.0 ytroytj33.fun
 0.0.0.0 ytsmoda3jcne.ru
@@ -67399,6 +67523,7 @@
 0.0.0.0 zcczrvsaqw.world
 0.0.0.0 zcczrvsaqw.xyz
 0.0.0.0 zcczrvsaw.xyz
+0.0.0.0 zcdfnl.top
 0.0.0.0 zcfhi.cn.com
 0.0.0.0 zcgqsd.icu
 0.0.0.0 zcjemo.alwaysfashion.com
