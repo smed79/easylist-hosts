@@ -1,8 +1,8 @@
 ################################################################################
 # Title       : EasyList HOSTS
 # Description : Unified EasyList hosts file for use with DNS and domain blocking tools
-# Version     : 20260715154012
-# Update      : 2026-07-15 15:40:12 UTC
+# Version     : 20260717121327
+# Update      : 2026-07-17 12:13:27 UTC
 # Homepage    : https://github.com/smed79/easylist-hosts
 # Raw         : https://raw.githubusercontent.com/smed79/easylist-hosts/main/hosts
 # Credits     : https://github.com/easylist
@@ -315,6 +315,7 @@
 0.0.0.0 1gqd0o687z.com
 0.0.0.0 1.gunsuo.com
 0.0.0.0 1gvzhr49e.com
+0.0.0.0 1h90ydceq.com
 0.0.0.0 1hacks.com
 0.0.0.0 1.hao123.com
 0.0.0.0 1hb4jkt1u2d.probemas.com
@@ -478,6 +479,7 @@
 0.0.0.0 22588888.com
 0.0.0.0 22ei7q8l12.com
 0.0.0.0 22pornz.site
+0.0.0.0 22qcvn8hq.com
 0.0.0.0 22svkcdbyp.com
 0.0.0.0 22vie9ula.com
 0.0.0.0 237482345sd.com
@@ -1076,6 +1078,7 @@
 0.0.0.0 5vuk.xyz
 0.0.0.0 5w31xv1a2.com
 0.0.0.0 5wl8x.xyz
+0.0.0.0 5wt390pvwz.com
 0.0.0.0 5wv0y42ub.com
 0.0.0.0 5x17591y3b.com
 0.0.0.0 5xanz2dxcn.ru
@@ -1304,6 +1307,7 @@
 0.0.0.0 7dgk5h1lk.com
 0.0.0.0 7dh26aja.com
 0.0.0.0 7dqjgdk.com
+0.0.0.0 7eehi3vqy3.com
 0.0.0.0 7eer.net
 0.0.0.0 7fvdh40aoz.ru
 0.0.0.0 7g761j2nc.com
@@ -1454,6 +1458,7 @@
 0.0.0.0 8lz3swf01q.com
 0.0.0.0 8mhcc.top
 0.0.0.0 8nr2bisa.ru
+0.0.0.0 8o5v23yip.com
 0.0.0.0 8oghu1wcau.com
 0.0.0.0 8p14q886v2.com
 0.0.0.0 8pbiddjtp.com
@@ -6470,6 +6475,7 @@
 0.0.0.0 anouretoltec.top
 0.0.0.0 a.nowscore.com
 0.0.0.0 anqabbwabnomb.top
+0.0.0.0 anqv97upx.com
 0.0.0.0 anrdoezrs.net
 0.0.0.0 ans.avast.ru
 0.0.0.0 ans.milb.com
@@ -9476,6 +9482,7 @@
 0.0.0.0 beta-link.liilix.com
 0.0.0.0 betamedia.biz
 0.0.0.0 beta.mediafort.ru
+0.0.0.0 betamountwo.com
 0.0.0.0 betarget.de
 0.0.0.0 betaskhexer.rest
 0.0.0.0 betawildstarkey.com
@@ -9958,9 +9965,11 @@
 0.0.0.0 blockedtv.xyz
 0.0.0.0 blockedvideoss.xyz
 0.0.0.0 blockertv.xyz
+0.0.0.0 blockietv.xyz
 0.0.0.0 blocklistme.ru
 0.0.0.0 blockmetrics.com
 0.0.0.0 blockslurk.com
+0.0.0.0 blockstvs.xyz
 0.0.0.0 blog104.com
 0.0.0.0 blogads.de
 0.0.0.0 blog.b2lead.com
@@ -10002,6 +10011,8 @@
 0.0.0.0 blogun.ru
 0.0.0.0 blog-webkatalog.de
 0.0.0.0 bloha.net
+0.0.0.0 blokstvs.xyz
+0.0.0.0 bloktv.xyz
 0.0.0.0 bloodbrothershacked.com
 0.0.0.0 bloom331.top
 0.0.0.0 bloomreach.co
@@ -11694,6 +11705,7 @@
 0.0.0.0 cbo9vo98i.com
 0.0.0.0 cboufsrelp.com
 0.0.0.0 cbpgpg.bombshellsportswear.com
+0.0.0.0 cbqh4uqmzm.com
 0.0.0.0 cbrykorvsqihfy.com
 0.0.0.0 cbso.uk.net
 0.0.0.0 cbtrk.net
@@ -11853,6 +11865,7 @@
 0.0.0.0 cdnral.com
 0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdnrefpa.com
+0.0.0.0 cdn.ripples.sh
 0.0.0.0 cdnrl.com
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 cdnrtbsape.ru
@@ -17023,6 +17036,7 @@
 0.0.0.0 dikmnhyxz.xyz
 0.0.0.0 dik-news1.club
 0.0.0.0 dilimania.net
+0.0.0.0 dilsnzgygszpla.com
 0.0.0.0 dimensions.mappy.com
 0.0.0.0 dimensionvegana.com
 0.0.0.0 dimestore.com
@@ -25303,6 +25317,7 @@
 0.0.0.0 gridsumdissector.com
 0.0.0.0 grifanme.com
 0.0.0.0 grifiins.ru
+0.0.0.0 grights.xyz
 0.0.0.0 grinchfile.com
 0.0.0.0 grintracks.com
 0.0.0.0 gripclix.com
@@ -25358,6 +25373,7 @@
 0.0.0.0 growthrx.in
 0.0.0.0 growtopia.work
 0.0.0.0 grptrker.com
+0.0.0.0 grrekey.xyz
 0.0.0.0 grrergiol.com
 0.0.0.0 grrrrodesforu.ru
 0.0.0.0 grt01.com
@@ -26294,6 +26310,7 @@
 0.0.0.0 hcqnm.us
 0.0.0.0 hcsmec.decathlon.pt
 0.0.0.0 hcvegu.com
+0.0.0.0 hcyo99iyr.com
 0.0.0.0 hczj7w56k.top
 0.0.0.0 hczvwi.soldejaneiro.com
 0.0.0.0 hd720biz.com
@@ -27395,6 +27412,7 @@
 0.0.0.0 i73u6dnnh.com
 0.0.0.0 i7akpd1.xyz
 0.0.0.0 i7bqmgn87.com
+0.0.0.0 i7kawpnwhb.com
 0.0.0.0 i7mfm1hl44.com
 0.0.0.0 i7pnx0t.cn
 0.0.0.0 i7xdx6p6.space
@@ -30083,6 +30101,7 @@
 0.0.0.0 ixtzad.fetch.co.uk
 0.0.0.0 ixug0amgtn.com
 0.0.0.0 ixware.co
+0.0.0.0 iy0keh7qj7.com
 0.0.0.0 iycifx.coldwatercreek.com
 0.0.0.0 iy.com.cn
 0.0.0.0 iyes.youku.com
@@ -30518,6 +30537,7 @@
 0.0.0.0 jlxzr.top
 0.0.0.0 jly24aw29n5m-a.akamaihd.net
 0.0.0.0 jlzebszkilcz.ru
+0.0.0.0 jm3uvitq0.com
 0.0.0.0 jmbluyxkl.xyz
 0.0.0.0 jmcnwr.bricoprive.com
 0.0.0.0 jme1quxporf.info
@@ -31526,6 +31546,7 @@
 0.0.0.0 klmcorporate.americanexpress.nl
 0.0.0.0 klqlmg.mitchellandness.com
 0.0.0.0 kls24qtvc.com
+0.0.0.0 klt2ojvew1.com
 0.0.0.0 kltjbnfjmnh.com
 0.0.0.0 klufjdo.com
 0.0.0.0 klwuhp.daehyuninside.com
@@ -31667,6 +31688,7 @@
 0.0.0.0 kotopoulathanasis.openapp.link
 0.0.0.0 koudaikeji.info
 0.0.0.0 kouopt.calvinklein.com.br
+0.0.0.0 koverdynya.link
 0.0.0.0 koviovius.com
 0.0.0.0 kowqd1.top
 0.0.0.0 kowqd5.top
@@ -31719,6 +31741,7 @@
 0.0.0.0 krevn0cq4.com
 0.0.0.0 krgoad.mauboussin.fr
 0.0.0.0 kr-go.experian.com
+0.0.0.0 krhi1dc7m.com
 0.0.0.0 kriloff.ru
 0.0.0.0 kritka.kz
 0.0.0.0 krmxearc1.com
@@ -31812,6 +31835,7 @@
 0.0.0.0 kve026cks7.com
 0.0.0.0 kvfumh.fairwaystyles.com
 0.0.0.0 kvfunf.factorydirect.ca
+0.0.0.0 kvg2q75ps.com
 0.0.0.0 kvhee.com
 0.0.0.0 kvksis.com
 0.0.0.0 kvnkjd.kaigoshoku.mynavi.jp
@@ -32145,6 +32169,7 @@
 0.0.0.0 lcd.aivote.com
 0.0.0.0 lcdsyj.daily.co.jp
 0.0.0.0 lcefua.timberland.ru
+0.0.0.0 lc-event.pixiv.net
 0.0.0.0 lcgcrldp6m.com
 0.0.0.0 lciapi.ninthdecimal.com
 0.0.0.0 l.civic.com
@@ -32500,6 +32525,7 @@
 0.0.0.0 lgaicreal.com
 0.0.0.0 lganilgll.cyou
 0.0.0.0 lgbdxo.azazie.com
+0.0.0.0 lgbtrights.xyz
 0.0.0.0 lgecqrb.com
 0.0.0.0 l.getpyfl.com
 0.0.0.0 l.glrcy.cn
@@ -32609,6 +32635,7 @@
 0.0.0.0 lightframe.ru
 0.0.0.0 lightingshots.com
 0.0.0.0 lightminer.co
+0.0.0.0 lightrights.xyz
 0.0.0.0 light-screen.net
 0.0.0.0 lightscreenshot.eu
 0.0.0.0 light-screnshots.net
@@ -33512,6 +33539,7 @@
 0.0.0.0 lionskins.pw
 0.0.0.0 liosix.mtvuutiset.fi
 0.0.0.0 lipsn.ru
+0.0.0.0 liqbtrights.xyz
 0.0.0.0 liquid.agora.pl
 0.0.0.0 lirotroodles.com
 0.0.0.0 li.rtl2.de
@@ -34365,6 +34393,7 @@
 0.0.0.0 lt3f9p5ox2.com
 0.0.0.0 lt45.net
 0.0.0.0 ltam2.secureforms.mcafee.com
+0.0.0.0 ltbgirights.xyz
 0.0.0.0 ltc-airdrop.org
 0.0.0.0 ltcdrop.com
 0.0.0.0 ltcmak.alodokter.com
@@ -34662,6 +34691,7 @@
 0.0.0.0 m3ds.subarumetropolitain.com
 0.0.0.0 m3gadeth.ru
 0.0.0.0 m3ks1o8jz.com
+0.0.0.0 m3rsa3rnbm.com
 0.0.0.0 m3-shop.ru
 0.0.0.0 m3uef4b38brmbntdzx.franchiseplus.nl
 0.0.0.0 m41egdcqogb3.ru
@@ -40015,6 +40045,7 @@
 0.0.0.0 n7fyrdeen.com
 0.0.0.0 n7n7i6luuv9ewonimoor3vo.cyou
 0.0.0.0 n7pusher.com
+0.0.0.0 n8g1kvtmrf.com
 0.0.0.0 n906n29tm.com
 0.0.0.0 n95-mask.site
 0.0.0.0 na0z0thlap.com
@@ -40874,6 +40905,7 @@
 0.0.0.0 nnobek.waschbaer.de
 0.0.0.0 nnocsin.cn
 0.0.0.0 nnofmj.studiof.com.co
+0.0.0.0 nnqc6d2kgn.com
 0.0.0.0 nnqwe.xyz
 0.0.0.0 nnqyed.laredoute.be
 0.0.0.0 nntgna.dmm.com
@@ -41524,6 +41556,7 @@
 0.0.0.0 odzcakey.com
 0.0.0.0 oe8mnxdtoi.com
 0.0.0.0 oe9s24wy9.com
+0.0.0.0 oeaznhm2wx.com
 0.0.0.0 oebarc.ekosport.at
 0.0.0.0 oedbml.collage-shop.jp
 0.0.0.0 oedlmz.underarmour.it
@@ -45179,6 +45212,7 @@
 0.0.0.0 psvitaromsgames.com
 0.0.0.0 pswgpb.seshop.com
 0.0.0.0 pswzggx.icu
+0.0.0.0 psxc6fapn.com
 0.0.0.0 psychedelicarithmetic.com
 0.0.0.0 psychedelicchess.com
 0.0.0.0 psydex.gl
@@ -46141,6 +46175,7 @@
 0.0.0.0 qvdn.cn
 0.0.0.0 qvenxs.cash-piscines.com
 0.0.0.0 qveyyi.clarivate.com
+0.0.0.0 qvfvah7jyb.com
 0.0.0.0 qvid2.b-cdn.net
 0.0.0.0 qvlcdw.ho-br.com
 0.0.0.0 qvmucs.abluestore.com
@@ -47636,6 +47671,7 @@
 0.0.0.0 rontar.ru
 0.0.0.0 rookee.ru
 0.0.0.0 roomcheats.com
+0.0.0.0 roomgome.com
 0.0.0.0 rooms.itsme.cool
 0.0.0.0 rooms.itsme.video
 0.0.0.0 roopefostaji.net
@@ -54532,6 +54568,7 @@
 0.0.0.0 s.parrysound.com
 0.0.0.0 sparteo.com
 0.0.0.0 spa-tracker.spapi.io
+0.0.0.0 spatula91.com
 0.0.0.0 sp.aviasales.com
 0.0.0.0 sp.aviasales.ru
 0.0.0.0 sp.ballsdigroup.com
@@ -57519,6 +57556,7 @@
 0.0.0.0 swwcyk.takvim.com.tr
 0.0.0.0 s-www.ru
 0.0.0.0 swwwxww.oss-cn-hangzhou.aliyuncs.com
+0.0.0.0 sx2sg2t5sd.com
 0.0.0.0 sxarakia.openapp.link
 0.0.0.0 sxbrvx.com
 0.0.0.0 sxeanticheat.su
@@ -61255,12 +61293,14 @@
 0.0.0.0 transfto.com
 0.0.0.0 transit.ncsecu.org
 0.0.0.0 transiz.ru
+0.0.0.0 transky.xyz
 0.0.0.0 translationbuddy.com
 0.0.0.0 transmapp.com
 0.0.0.0 transmissionapp.jacoblegrone.com
 0.0.0.0 transplant.care.uhssa.com
 0.0.0.0 transplant.universityhealth.com
 0.0.0.0 transportation.external.xerox.com
+0.0.0.0 transrights.xyz
 0.0.0.0 tranziceleb.ru
 0.0.0.0 tranzitcash.ru
 0.0.0.0 tranzithealth.ru
@@ -62632,6 +62672,7 @@
 0.0.0.0 tr.outbrain.com
 0.0.0.0 trouupjeu.com
 0.0.0.0 trowanesteeler.com
+0.0.0.0 trowel03.com
 0.0.0.0 trp69.top
 0.0.0.0 tr.panels-mediametrie.fr
 0.0.0.0 tr.partenaire.groupe-vyv.fr
@@ -68571,6 +68612,7 @@
 0.0.0.0 xh33g.net
 0.0.0.0 xhack4u.com
 0.0.0.0 xhacked.com
+0.0.0.0 xhckbgvd0.com
 0.0.0.0 xhe87zexdk.com
 0.0.0.0 xheqbc.cn
 0.0.0.0 xhgwho0fx.com
