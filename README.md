@@ -28,12 +28,24 @@ https://easylist-downloads.adblockplus.org/easylistportuguese.txt
 https://easylist-downloads.adblockplus.org/easylistdutch.txt
 https://easylist-downloads.adblockplus.org/ruadlist.txt
 https://easylist-downloads.adblockplus.org/koreanlist.txt
-https://easylist-downloads.adblockplus.org/liste_fr.txt
-https://easylist-downloads.adblockplus.org/liste_ar.txt
 https://easylist-downloads.adblockplus.org/easylistchina.txt
-https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
+https://easylist-downloads.adblockplus.org/indianlist.txt
+https://easylist-downloads.adblockplus.org/turkish-filters.txt
+https://easylist-downloads.adblockplus.org/easylistpolish.txt
+https://easylist-downloads.adblockplus.org/japanese-filters.txt
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+https://easylist-downloads.adblockplus.org/global-filters.txt
+https://raw.githubusercontent.com/easylist/listefr/refs/heads/master/liste_fr.txt
+https://raw.githubusercontent.com/easylist/listear/refs/heads/master/Liste_AR.txt
+https://raw.githubusercontent.com/SlashArash/adblockfa/master/adblockfa.txt
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
+https://raw.githubusercontent.com/damengzhu/banad/refs/heads/main/jiekouAD.txt
+https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+https://zoso.ro/pages/rolist.txt
 ```
 
 #### Raw links
