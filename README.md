@@ -35,6 +35,7 @@ https://easylist-downloads.adblockplus.org/easylistpolish.txt
 https://easylist-downloads.adblockplus.org/japanese-filters.txt
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://easylist-downloads.adblockplus.org/global-filters.txt
+https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt
 https://raw.githubusercontent.com/easylist/listefr/refs/heads/master/liste_fr.txt
 https://raw.githubusercontent.com/easylist/listear/refs/heads/master/Liste_AR.txt
 https://raw.githubusercontent.com/SlashArash/adblockfa/master/adblockfa.txt
